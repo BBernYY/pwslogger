@@ -1,0 +1,22 @@
+{
+    "commands": {
+        "start": {
+            "description": "Start the stopwatch.",
+            "usage": ".log start"
+        },
+        "stop": {
+            "description": "Stop the stopwatch and store the log.",
+            "usage": ".log stop [log title]"
+        },
+        "show": {
+            "usage": ".log show",
+            "description": "Shows the accumulated logs."
+        },
+        "help": {
+            "usage": ".log help (command)",
+            "description": "Shows this command."
+        }
+    },
+    "users": {
+   }
+}
